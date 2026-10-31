@@ -1,1 +1,1 @@
-# marketmind
+# MarketMind AI Framework
